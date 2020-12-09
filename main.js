@@ -46,7 +46,7 @@ function createItems(){
           <div class="d-flex flex-column px-2">
             <a>
               <div>
-                <img class="w-100 mb-2 mt-1"  height="300" src=${item.imgUrl} alt="">
+                <img class="w-100 my-2"  height="250" src=${item.imgUrl} alt="">
               </div>
               <div class="mb-3 px-2"> ${item.title}</div>
             </a>
